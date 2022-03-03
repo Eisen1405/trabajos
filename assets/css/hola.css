@@ -1,0 +1,56 @@
+body{
+    background-color:silver;
+}
+.titulo{
+    font-family: Arial,sans-serif;
+    font-size:50px;
+    letter-spacing:9px;
+    text-align:center;
+}
+.subtitulo{
+    background-color: gray;
+    color:white;
+    font-family: Arial;
+    text-indent:1%;
+    font-size:35px;
+    margin-left:10%;
+    margin-right:10%;
+}
+.parrafo{
+    font-family: Arial;
+    font-size:15px;
+    text-indent:4%;
+    text-align:justify;
+    margin-right:17%;
+    margin-left:29%;
+
+}
+.parrafo2{
+    font-family: Arial;
+    font-size:15px;
+    text-indent:4%;
+    text-align:justify;
+    margin-right:17%;
+    margin-left:29%;
+
+}
+.img{
+    float:left;
+    width:150px;
+    height: 150px;
+    margin-left:17%;
+    
+}
+.imagen{
+    float:left;
+    width:109px;
+    height:155px;
+    margin-left:249px;
+    
+}
+a{
+    background-color:white;
+}
+a1{
+    color:red;
+}

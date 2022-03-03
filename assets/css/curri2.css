@@ -1,0 +1,29 @@
+body{
+    background-color: #D7D8D9;
+}
+h1{
+    text-align: center;
+    color:#454746
+}
+h2{
+    background-color: #91A2AC;
+    color:#55636C
+}
+a{
+    color:#439FD9
+}
+p{
+    white-space: pre-line;
+    background-color:#C5CCD2
+}
+h4{
+    background-color:#ABB8C0;
+    color:#73848C
+}
+
+p1{
+    background-color:white;
+    text-align: end;
+    white-space:pre-line;
+    
+}
